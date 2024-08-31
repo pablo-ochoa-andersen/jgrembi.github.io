@@ -1,5 +1,5 @@
 ---
-title: "High-Throughput multiparallel enteropathogen detection via nano-liter qPCR"
+title: "<a href='https://doi.org/10.3389/fcimb.2020.00351'>High-Throughput multiparallel enteropathogen detection via nano-liter qPCR"
 collection: publications
 category: manuscripts
 date: 2020-07-15
