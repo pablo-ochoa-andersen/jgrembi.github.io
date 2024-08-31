@@ -2,7 +2,6 @@
 title: "Introducing riskCommunicator: an R package to obtain interpretable effect estimates for public health"
 collection: publications
 category: manuscripts
-permalink: /publication/2022_Grembi
 date: 2022-07-18
 venue: 'PLoS One'
 paperurl: 'http://jgrembi.github.io/files/paper3.pdf'

@@ -2,7 +2,6 @@
 title: "High-Throughput multiparallel enteropathogen detection via nano-liter qPCR"
 collection: publications
 category: manuscripts
-permalink: /publication/2020_Grembi_NLQPCR
 date: 2020-07-15
 venue: 'Frontiers in Cellular and Infection Microbiology'
 paperurl: 'http://grembi.github.io/files/Grembi_2020_NLQPCR.pdf'
