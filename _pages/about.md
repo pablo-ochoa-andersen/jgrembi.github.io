@@ -16,4 +16,6 @@ This webpage is currently under construction, please check back later this fall 
 
 <figure>
 <img src="/images/lab-values.png" style="width:100%"> 
+<figcaption align = "left"> 
+Lab Values
 </figure>
