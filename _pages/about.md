@@ -14,8 +14,24 @@ I am an incoming Assistant Professor in the Department of Veterinary and Biomedi
 
 This webpage is currently under construction, please check back later this fall for more content.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <figure>
 <img src="/images/lab-values.png" style="width:100%"> 
 <figcaption align = "left"> 
-Lab Values
 </figure>
