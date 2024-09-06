@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 
-Our research investigates the biological mechanisms of persistent childhood undernutrition, affecting over 150 million children worldwide. Learning from the limited success of nutritional interventions, our focus is on understanding the small intestine’s physiological changes (environmental enteropathy) that hinder nutrient absorption. These adaptations may serve to prevent gut microbial translocation and infection, at the expense of child growth. My lab aims to uncover the drivers of these processes to develop targeted interventions for improved growth and development in children from low-resource settings. We approach these questions from several angles, as described below.
+Our research endeavors to explain the biological mechanisms underlying persistent childhood undernutrition, impacting more than 150 million children globally. Our focus is on understanding environmental enteropathy (EE), a pathophysiology of the small intestine. EE hinders nutrient absorption and is highly prevalent in regions with high rates of enteropathogens and childhood undernutrition. The aberrant inflammation present in EE may be an evolved response to prevent gut microbial translocation and acute infection in settings of high pathogen exposure. This inflammation results in chronic undernutrition during the critical developmental period of early childhood. My lab aims to identify the key factors driving the unresolved inflammatory processes in EE, with the ultimate goal of developing targeted interventions to enhance growth and developmental outcomes for children in low-resource settings. We approach these questions from several angles, as described below.
 
 [Check back later for more detailed descriptions]
 
