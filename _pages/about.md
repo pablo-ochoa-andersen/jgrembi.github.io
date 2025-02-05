@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I am an incoming Assistant Professor in the Department of Veterinary and Biomedical Sciences at Penn State (starting in 2025). 
+I am an Assistant Professor in the Department of Veterinary and Biomedical Sciences at Penn State. 
 
 <br>
 <br>
