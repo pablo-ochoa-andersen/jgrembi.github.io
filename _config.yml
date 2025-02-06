@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Grembi Research Lab"
 title_separator          : "-"
 name                     : &name "Jess Grembi"
-description              : &description "Assistant Professor, Veterinary and Biomedical Sciences, Penn State University (starting January 2025)"
+description              : &description "Assistant Professor, Veterinary and Biomedical Sciences, Penn State University"
 url                      : https://jgrembi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jgrembi/jgrembi.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Jess Grembi"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor, Veterinary and Biomedical Sciences (starting 2025)"
+  bio              : "Assistant Professor, Veterinary and Biomedical Sciences"
   location         : "Penn State University"
   employer         : 
   uri              : # URL
