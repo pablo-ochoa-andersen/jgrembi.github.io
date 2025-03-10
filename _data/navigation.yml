@@ -7,6 +7,9 @@
 main:
   - title: "Research"
     url: /research/
+
+  - title: "People"
+    url: /people/
     
   - title: "Publications"
     url: /publications/
@@ -16,9 +19,6 @@ main:
 
 #  - title: "Teaching"
 #    url: /teaching/    
-    
-  - title: "People"
-    url: /people/
     
   - title: "Resources"
     url: /resources/
