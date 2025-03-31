@@ -13,7 +13,7 @@ redirect_from:
 
 <!-- Person 1 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <img src="/images/profile.jpg" alt="Person 1" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
+  <img src="/images/profile.jpg" alt="Person 1" style="width: 150px; height: 184px; border-radius: 50%; margin-right: 20px;">
   <div>
     <h3>Person 1</h3>
     <p>Person 1 is a key member of our team, specializing in research and development. Their work focuses on X, Y, and Z.</p>
