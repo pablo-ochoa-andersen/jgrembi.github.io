@@ -14,7 +14,7 @@ redirect_from:
   <div>
     <h3>Jess Grembi</h3>
 <h4 style="margin-top: -10px; color: gray;">PI</h4>
-    <p>Jessica Grembi is the PI of the Grembi Lab. Find my CV [here](https://jgrembi.github.io/files/JA_Grembi_CV.pdf) ????</p>
+    Jessica Grembi is the PI of the Grembi Lab. Find my CV [here](https://jgrembi.github.io/files/JA_Grembi_CV.pdf) ????
   </div>
 </div>
 <hr style="border: 0.5px solid lightgray; margin: 20px 0;">
