@@ -2,7 +2,7 @@
 layout: archive
 title: "People"
 permalink: /people/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
@@ -10,5 +10,4 @@ redirect_from:
 {% include base_path %}
 
 Find my CV [here](https://jgrembi.github.io/files/JA_Grembi_CV.pdf)
-blasfhasfjhkhalsfhasf
 <!-- <iframe src="/files/CV/JA_Grembi_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> --->
