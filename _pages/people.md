@@ -30,9 +30,9 @@ redirect_from:
 <hr style="border: 0.5px solid lightgray; margin: 20px 0;">
 <!-- Person 3 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <img src="/files/headshots/person3.jpg" alt="Person 3" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
+  <img src="/images/headshot_PO.jpg" alt="Person 3" style="width: 150px; height: 198px; border-radius: 50%; margin-right: 20px;">
   <div>
-    <h3>Person 3</h3>
+    <h3>Pablo Ochoa-Andersen</h3>
 <h4 style="margin-top: -10px; color: gray;">Lab Tech</h4>
     <p>Pablo Ochoa-Andersen is a lab tech at the Grembi lab.?????</p>
   </div>
