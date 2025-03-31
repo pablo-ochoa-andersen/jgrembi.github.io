@@ -8,16 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-## Our Team
-
 <!-- Person 1 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <img src="/images/profile.jpg" alt="Person 1" style="width: 150px; height: 184px; border-radius: 50%; margin-right: 20px;">
   <div>
     <h3>Jess Grembi</h3>
 <h4 style="margin-top: -10px; color: gray;">PI</h4>
-    <p>Jessica Grembi is the PI of the Grembi Lab. ????</p>
+    <p>Jessica Grembi is the PI of the Grembi Lab. Find my CV [here](https://jgrembi.github.io/files/JA_Grembi_CV.pdf) ????</p>
   </div>
 </div>
 <hr style="border: 0.5px solid lightgray; margin: 20px 0;">
