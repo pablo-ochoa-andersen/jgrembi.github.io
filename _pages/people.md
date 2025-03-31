@@ -13,7 +13,7 @@ redirect_from:
 
 <!-- Person 1 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <img src="/files/headshots/person1.jpg" alt="Person 1" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
+  <img src="/images/bio-photo.jpg" alt="Person 1" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
   <div>
     <h3>Person 1</h3>
     <p>Person 1 is a key member of our team, specializing in research and development. Their work focuses on X, Y, and Z.</p>
@@ -22,7 +22,7 @@ redirect_from:
 
 <!-- Person 2 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <img src="/files/headshots/person2.jpg" alt="Person 2" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
+  <img src="/images/headshot_NT.jpg" alt="Person 2" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
   <div>
     <h3>Person 2</h3>
     <p>Person 2 leads our innovation initiatives and has expertise in A, B, and C.</p>
