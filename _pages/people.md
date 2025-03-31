@@ -20,7 +20,7 @@ redirect_from:
 <hr style="border: 0.5px solid lightgray; margin: 20px 0;">
 <!-- Person 2 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <img src="/images/headshot_NT.jpg" alt="Person 2" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px; object-fit: cover; object-position: 10% center;">
+  <img src="/images/headshot_NT_cropped.jpg" alt="Person 2" style="width: 150px; height: 154px; border-radius: 50%; margin-right: 20px; object-fit: cover; object-position: 10% center;">
   <div>
     <h3>Nazifa Tabassum</h3>
 <h4 style="margin-top: -10px; color: gray;">Graduate Student</h4>
