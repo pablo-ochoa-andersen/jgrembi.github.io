@@ -6,7 +6,7 @@ author_profile: false
 redirect_from:
   - /resume
 ---
-
+<div style="transform: scale(0.75); transform-origin: top left;">
 {% include base_path %}
 <!-- Person 1 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
