@@ -24,7 +24,7 @@ redirect_from:
   <div>
     <h3>Nazifa Tabassum</h3>
 <h4 style="margin-top: -10px; color: gray;">Graduate Student</h4>
-    <p>Nazifa Tabassum is a graduate student at the Grembi lab.????</p>
+    <p>Nazifa is a PhD student in the Molecular, Cellular, and Integrative Biosciences (MCIBS) program studying associations between maternal micronutrient status and the microbiome, with an emerging interest in the virome. She is passionate about connecting microbiome science to global health and making research accessible beyond the lab bench.</p>
   </div>
 </div>
 <hr style="border: 0.5px solid lightgray; margin: 20px 0;">
